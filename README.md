@@ -6,7 +6,7 @@ We can apply discounts on certain vehicles. We can provide feedback according to
 
 ### About Implementation
 
-I created the `rent.py` file. After importing the `datetime` library, I created our parent class (`VehicleRent`), child classes (`CarRent`, `BikeRent`) and `Customer` class.
+I created the `rent.py` file. After importing the `datetime` library for timeseries, I created our parent class (`VehicleRent`), child classes (`CarRent`, `BikeRent`) and `Customer` class.
 
 VehicleRent includes `initializer`, `diplayStock`, `rentHourly`, `rentDaily` and `returnVehicle` methods.
 
